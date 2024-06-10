@@ -1,0 +1,91 @@
+balise
+{
+    font-family: Arial;
+}
+header{
+	background-color: #d88da8;
+	font-family: Arial;
+}
+
+
+div.head{
+	color: white;
+}
+
+div.head ul li{
+	display: inline-block;
+	padding-right: 50px;
+	vertical-align:middle;
+	line-height: 50px;
+}
+
+nav.menu-nav{
+	padding-top:15px;
+	padding-bottom: 15px; 
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+	border : 1px solid #fff;
+	padding: 10px;
+	margin:0 5px;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	font-family: Arial;
+	background-color: #d88da8;
+	text-decoration: none;
+	padding: 10px;
+}
+.logo {
+	height:150px;
+	padding-top:20px;
+
+}
+
+nav.menu-nav ul li.btn:hover a, nav.menu-nav ul li.btn:hover {
+	color: #d6326d;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+div.arcticle p{
+	width: 350px;
+}
+
+img.head {
+	max-width: 100;
+	max-height: 100;
+}
+body {
+ font-family : arial, sans-serif;
+ margin : 0;
+ background-color: pink;
+}
+footer{
+	padding: 20px;
+	color: white;
+	background-color: black;
+	margin: 0;
+
+}
+
+section {
+	margin:50px;
+	padding: 50px;
+	background-color: #fff;
+	border: 5px solid #ffdae7;
+}
+
+#photoblob {
+	height:300px;
+}
+
+#photoblob:hover {
+	height:900px;
+	top : 50px;
+	position: absolute;
+	border : 10px ridge #ffdae7;
+}

@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>Blogfish alimentation</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1>Le blobfish, nouvelle base de l'alimentation</h1>
+		<p>
+			<b>Malgré son aspect repoussant et peu appétissant, le blobfish peut être une base d'alimentation !</b>
+			</br>En effet, le blobfish est un poisson gélatineux. On peut extraire cette gélatine par des moyens très simple, et en faire des produits alimentaires.
+		</p>
+		<ul>
+			<li><i>Mais par quels procédés peut-on extraire cette gélatine ? Est ce que le blobfish survit ?</i></li>
+			En mettant le blobfish dans une centrifugeuse, on peut extraire sa gélatine. Mais c'est sa chair qui est flasque de cette façon en raison de la forte pression du milieu où il vit.
+			Donc en principe le blobfish ne survit pas, mais en gérant des élevages responsablement on peut préserver l'espèce tout en expllitant ses points forts.
+		</ul>
+	</body>
+</html>

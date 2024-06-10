@@ -1,0 +1,87 @@
+
+
+header{
+	background-color: #d88da8;
+	font-family: Arial;
+}
+
+div.head{
+	color: white;
+}
+
+div.head ul li{
+	display: inline-block;
+	padding-right: 50px;
+	vertical-align: middle;
+	line-height: 50px;
+}
+
+div.head ul li ul li{
+	display: inherit;
+}
+
+nav.menu-nav{
+	padding-top:15px;
+	padding-bottom: 15px; 
+}
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white;
+	font-family: Arial;
+	background-color: #d88da8;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.logo {
+	height: 150px;
+	padding-top: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #d6326d;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+section{
+	font-family: Arial;
+	line-height: 23px;
+}
+
+section div{
+	padding-left: 30px;
+}
+
+section ul li{
+	list-style-type: none;
+	display: inline-block;
+}
+
+section ul li.arcticle1 p{
+	width: 500px;
+	padding-right: 100px;
+}
+
+section ul li.arcticle2 p{
+	width: 1000px;
+}
+section div ul li{
+	display: inherit;
+}
+
+img {
+	max-width: 500;
+	max-height: 500;
+}
+
+footer{
+	padding: 20px;
+	color: white;
+	background-color: black;
+}
